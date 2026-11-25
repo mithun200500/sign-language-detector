@@ -1,0 +1,22 @@
+# Python virtual environments
+venv/
+venv312/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs and OS files
+.DS_Store
+*.log
+
+# Collected landmark data
+data/landmarks.csv
+
+# Dataset images
+DATASET/
+
+# Trained model
+# Uncomment the next line if you do NOT want to upload the model
+# model.pkl
